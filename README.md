@@ -19,5 +19,5 @@ A simple **Myntra homepage clone** built using **HTML & CSS**. This project focu
 ## 🚀 Getting Started
 1. Clone the repository:
    ```sh
-   git clone https://github.com/YourGitHubUsername/myntra-clone.git
+   git clone https://github.com/abhishekkk0007/myntra-clone.git
 
